@@ -2,9 +2,13 @@
  
 ## Hardware Required
 🔴 Arduino Board
+
 🔴 6 220 ohm resistors
+
 🔴 6 LEDs
+
 🔴 hook-up wires
+
 🔴 breadboard
 
 # Circuit
